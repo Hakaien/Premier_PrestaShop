@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-02-22 10:26:25
+/* Smarty version 3.1.34-dev-7, created on 2021-02-22 16:02:08
   from 'C:\wamp64\www\Cours-PrestaShop\Jarditou\themes\classic\templates\catalog\_partials\product-variants.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_603378c145ff27_34701904',
+  'unifunc' => 'content_6033c770372cd1_50300074',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_603378c145ff27_34701904 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6033c770372cd1_50300074 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="product-variants">
   <?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['groups']->value, 'group', false, 'id_attribute_group');

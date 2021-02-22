@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-02-22 10:52:36
+/* Smarty version 3.1.34-dev-7, created on 2021-02-22 16:08:02
   from 'C:\wamp64\www\Cours-PrestaShop\Jarditou\admin859ggkkbf\themes\new-theme\template\components\layout\search_form.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_60337ee41a8842_56948965',
+  'unifunc' => 'content_6033c8d2004be7_29303836',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_60337ee41a8842_56948965 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6033c8d2004be7_29303836 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <form id="header_search"
       class="bo_search_form dropdown-form js-dropdown-form collapsed"

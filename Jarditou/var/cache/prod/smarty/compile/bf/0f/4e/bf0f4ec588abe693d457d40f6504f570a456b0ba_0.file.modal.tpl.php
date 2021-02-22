@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-02-22 10:52:33
+/* Smarty version 3.1.34-dev-7, created on 2021-02-22 16:07:56
   from 'C:\wamp64\www\Cours-PrestaShop\Jarditou\admin859ggkkbf\themes\new-theme\template\modal.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_60337ee183a577_78575362',
+  'unifunc' => 'content_6033c8cc9a4b24_14382091',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_60337ee183a577_78575362 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6033c8cc9a4b24_14382091 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="modal fade" id="<?php echo $_smarty_tpl->tpl_vars['modal_id']->value;?>
 " tabindex="-1">
 	<div class="modal-dialog <?php if (isset($_smarty_tpl->tpl_vars['modal_class']->value)) {

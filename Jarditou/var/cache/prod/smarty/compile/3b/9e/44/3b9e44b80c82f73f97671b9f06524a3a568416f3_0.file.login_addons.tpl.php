@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-02-22 10:26:18
+/* Smarty version 3.1.34-dev-7, created on 2021-02-22 16:07:22
   from 'C:\wamp64\www\Cours-PrestaShop\Jarditou\admin859ggkkbf\themes\default\template\controllers\modules\login_addons.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_603378baa9ad46_50190102',
+  'unifunc' => 'content_6033c8aa4f69f3_22562604',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_603378baa9ad46_50190102 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6033c8aa4f69f3_22562604 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="modal-body">
 <?php if ($_smarty_tpl->tpl_vars['add_permission']->value == '1') {?>

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-02-22 10:52:33
+/* Smarty version 3.1.34-dev-7, created on 2021-02-22 16:07:56
   from 'C:\wamp64\www\Cours-PrestaShop\Jarditou\modules\welcome\views\contents\welcome.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_60337ee1157dc5_56256946',
+  'unifunc' => 'content_6033c8cc2f0d36_41686539',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_60337ee1157dc5_56256946 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6033c8cc2f0d36_41686539 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="onboarding-welcome">
   <i class="material-icons onboarding-button-shut-down">close</i>

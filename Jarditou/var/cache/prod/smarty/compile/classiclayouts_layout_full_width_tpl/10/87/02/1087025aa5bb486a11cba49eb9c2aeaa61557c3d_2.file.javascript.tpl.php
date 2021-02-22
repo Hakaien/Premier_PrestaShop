@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-02-22 10:25:04
+/* Smarty version 3.1.34-dev-7, created on 2021-02-22 16:01:50
   from 'C:\wamp64\www\Cours-PrestaShop\Jarditou\themes\classic\templates\_partials\javascript.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_60337870416041_47909890',
+  'unifunc' => 'content_6033c75e474b71_08750503',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_60337870416041_47909890 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6033c75e474b71_08750503 (Smarty_Internal_Template $_smarty_tpl) {
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['javascript']->value['external'], 'js');
 if ($_from !== null) {
 foreach ($_from as $_smarty_tpl->tpl_vars['js']->value) {

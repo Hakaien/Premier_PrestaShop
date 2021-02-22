@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-02-22 10:52:33
+/* Smarty version 3.1.34-dev-7, created on 2021-02-22 16:07:56
   from 'C:\wamp64\www\Cours-PrestaShop\Jarditou\modules\ps_faviconnotificationbo\views\templates\hook\displayBackOfficeHeader.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_60337ee1009f37_90754470',
+  'unifunc' => 'content_6033c8cc0e4e53_81007059',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_60337ee1009f37_90754470 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6033c8cc0e4e53_81007059 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
 >
   if (undefined !== ps_faviconnotificationbo) {

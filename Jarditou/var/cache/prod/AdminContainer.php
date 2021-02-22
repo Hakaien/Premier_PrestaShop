@@ -2609,6 +2609,7 @@ class AdminContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
                 63 => 'ps_accounts',
                 64 => 'blockreassurance',
                 65 => 'ps_facetedsearch',
+                66 => 'mymodecomments',
             ],
             'ps_cache_dir' => 'C:\\wamp64\\www\\Cours-PrestaShop\\Jarditou/var/cache/prod\\',
             'mail_themes_uri' => '/mails/themes',

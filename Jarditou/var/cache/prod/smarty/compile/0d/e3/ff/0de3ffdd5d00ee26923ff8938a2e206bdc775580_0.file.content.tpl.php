@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-02-22 10:38:31
+/* Smarty version 3.1.34-dev-7, created on 2021-02-22 16:07:37
   from 'C:\wamp64\www\Cours-PrestaShop\Jarditou\admin859ggkkbf\themes\default\template\content.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_60337b97b22347_62807072',
+  'unifunc' => 'content_6033c8b93d54c0_13664845',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_60337b97b22347_62807072 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6033c8b93d54c0_13664845 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="ajax_confirmation" class="alert alert-success hide"></div>
 <div id="ajaxBox" style="display:none"></div>
 

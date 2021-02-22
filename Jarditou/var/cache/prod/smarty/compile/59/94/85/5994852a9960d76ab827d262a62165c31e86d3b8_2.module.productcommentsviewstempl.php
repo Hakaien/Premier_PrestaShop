@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-02-22 10:26:28
+/* Smarty version 3.1.34-dev-7, created on 2021-02-22 16:02:11
   from 'module:productcommentsviewstempl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_603378c428a3f0_58468130',
+  'unifunc' => 'content_6033c7731eecf7_86097018',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -25,7 +25,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'module:productcomments/views/templates/hook/confirm-modal.tpl' => 1,
   ),
 ),false)) {
-function content_603378c428a3f0_58468130 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6033c7731eecf7_86097018 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="text/javascript">
   var productCommentUpdatePostErrorMessage = '<?php echo call_user_func_array($_smarty_tpl->registered_plugins[ 'modifier' ][ 'escape' ][ 0 ], array( call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Sorry, your review appreciation cannot be sent.','d'=>'Modules.Productcomments.Shop'),$_smarty_tpl ) ),'javascript' ));?>

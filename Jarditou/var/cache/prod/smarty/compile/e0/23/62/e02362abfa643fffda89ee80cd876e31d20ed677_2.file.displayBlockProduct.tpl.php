@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-02-22 10:26:26
+/* Smarty version 3.1.34-dev-7, created on 2021-02-22 16:02:09
   from 'C:\wamp64\www\Cours-PrestaShop\Jarditou\modules\blockreassurance\views\templates\hook\displayBlockProduct.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_603378c2bcf700_90461220',
+  'unifunc' => 'content_6033c771d36bd4_72481835',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_603378c2bcf700_90461220 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6033c771d36bd4_72481835 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="blockreassurance_product">
     <?php

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-02-22 10:26:29
+/* Smarty version 3.1.34-dev-7, created on 2021-02-22 16:02:12
   from 'C:\wamp64\www\Cours-PrestaShop\Jarditou\modules\ps_checkout\views\templates\hook\displayFooterProduct.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_603378c58194a3_67153932',
+  'unifunc' => 'content_6033c774c55b99_35581680',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_603378c58194a3_67153932 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6033c774c55b99_35581680 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="js-ps_checkout-express-button-container">
 </div>
