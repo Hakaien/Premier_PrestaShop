@@ -1,0 +1,8 @@
+tuto module PS
+https://newslang.ch/blog/guide-complet-creer-module-prestashop-1-7/
+
+Coding standards PS
+https://devdocs.prestashop.com/1.7/development/coding-standards/
+
+Afficher date/heure PS
+https://www.prestatoolbox.fr/content/29-afficher-proprement-la-date-dans-vos-template-prestashop
